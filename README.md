@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kanishk Joshi
-- 👀 I’m interested in cyber security and machine learning.
+- 👀 I’m interested in Machine learning and .iOS Development
 - 🌱 I’m currently learning machine learning and DSA.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 You can reach me at this mail id- kanishkjoshi22@gmail.com.
