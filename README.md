@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanishk Joshi</h1>
 <h3 align="center">Aspiring Computer Science student specializing in Artificial Intelligence. Adept in Data Science, iOS Development, and Machine Learning</h3>
-< img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif”>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyborg-joshi&label=Profile%20views&color=0e75b6&style=flat" alt="cyborg-joshi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/cyborg_joshi" target="blank"><img src="https://img.shields.io/twitter/follow/cyborg_joshi?logo=twitter&style=for-the-badge" alt="cyborg_joshi" /></a> </p>
