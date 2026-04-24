@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kanishk Joshi</h1>
-<h3 align="center">Aspiring Computer Science student specializing in Artificial Intelligence. Adept in Data Science, iOS Development, and Machine Learning</h3>
+<h3 align="center">Engineer passionate about Artificial Intelligence, Machine Learning, iOS Development, and Networking</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"(https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyborg-joshi&label=Profile%20views&color=0e75b6&style=flat" alt="cyborg-joshi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/cyborg_joshi" target="blank"><img src="https://img.shields.io/twitter/follow/cyborg_joshi?logo=twitter&style=for-the-badge" alt="cyborg_joshi" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
+- 🌱 Currently exploring **LLM fine-tuning, RL environments, and AI agents**
 
 - 📫 How to reach me **kanishkjoshi22@gmail.com**
 
